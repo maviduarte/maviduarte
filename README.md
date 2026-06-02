@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%98%86_maviduarte_%E2%98%86-purple" />
+  <a href="https://github.com/maviduarte"><img src="https://img.shields.io/badge/%E2%98%86_maviduarte_%E2%98%86-purple" /></a>
 </div>
       
 <br>
