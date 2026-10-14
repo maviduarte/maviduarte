@@ -70,9 +70,9 @@
   </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=maviduarte&style=flat-square&color=9B96FF" /></p> 
-</div>
+</div> -->
 
 <br>
 
