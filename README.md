@@ -65,9 +65,8 @@
   
 </div>
 
-  <div>
-    <img align="center" height="150" src="https://i.imgur.com/cXjQuu8.gif" />
-    <img align="right" height="150" src="https://i.imgur.com/cXjQuu8.gif" />
+  <div align="center">
+    <img height="150" src="https://i.imgur.com/cXjQuu8.gif" />
   </div>
 
 
